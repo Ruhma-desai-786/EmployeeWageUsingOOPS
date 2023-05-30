@@ -1,0 +1,15 @@
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\bin\Debug\net6.0\EmployeeWageUsingOOPS.exe
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\bin\Debug\net6.0\EmployeeWageUsingOOPS.deps.json
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\bin\Debug\net6.0\EmployeeWageUsingOOPS.runtimeconfig.json
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\bin\Debug\net6.0\EmployeeWageUsingOOPS.dll
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\bin\Debug\net6.0\EmployeeWageUsingOOPS.pdb
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\EmployeeWageUsingOOPS.csproj.AssemblyReference.cache
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\EmployeeWageUsingOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\EmployeeWageUsingOOPS.AssemblyInfoInputs.cache
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\EmployeeWageUsingOOPS.AssemblyInfo.cs
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\EmployeeWageUsingOOPS.csproj.CoreCompileInputs.cache
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\EmployeeWageUsingOOPS.dll
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\refint\EmployeeWageUsingOOPS.dll
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\EmployeeWageUsingOOPS.pdb
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\EmployeeWageUsingOOPS.genruntimeconfig.cache
+C:\Users\r\Desktop\Bridge_labz\EmployeeWageUsingOOPS\obj\Debug\net6.0\ref\EmployeeWageUsingOOPS.dll
